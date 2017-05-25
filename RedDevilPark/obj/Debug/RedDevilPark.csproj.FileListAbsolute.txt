@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\bin\Debug\RedDevilPark.exe.config
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\bin\Debug\RedDevilPark.exe
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\bin\Debug\RedDevilPark.pdb
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\obj\Debug\RedDevilPark.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\obj\Debug\RedDevilPark.exe
+\\mac\home\documents\visual studio 2015\Projects\RedDevilPark\RedDevilPark\obj\Debug\RedDevilPark.pdb
